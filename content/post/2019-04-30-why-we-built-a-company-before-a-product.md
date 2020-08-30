@@ -8,7 +8,7 @@ authors:
 - Thiago Costa
 
 ---
-**Hello, world!** 
+**Hello, world!**
 
 This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
@@ -16,7 +16,7 @@ In my experience, the challenges that growing companies struggle with rarely ste
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
 
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
+In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are _everywhere_.
 
 But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
 
